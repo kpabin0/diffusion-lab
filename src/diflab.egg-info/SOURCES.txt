@@ -1,9 +1,0 @@
-pyproject.toml
-src/main.py
-src/diflab/__init__.py
-src/diflab.egg-info/PKG-INFO
-src/diflab.egg-info/SOURCES.txt
-src/diflab.egg-info/dependency_links.txt
-src/diflab.egg-info/top_level.txt
-src/diflab/utils/__init__.py
-src/diflab/utils/prob2d.py
